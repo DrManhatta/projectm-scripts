@@ -1,2 +1,2 @@
 # Project:M
-OpenOSRS automation project.
+OpenOSRS (A)utomation (P)rogramming (I)nterface.
